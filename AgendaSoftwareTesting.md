@@ -1,4 +1,4 @@
-	#System is operational
+	# System is operational
 	Zero Defect Product----
 
 	80%------20% Rule
