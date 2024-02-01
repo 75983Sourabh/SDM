@@ -1,9 +1,9 @@
-	# System is operational
+# System is operational
 	Zero Defect Product----
 
 	80%------20% Rule
 
-	Agenda:
+	## Agenda:
 		Introduction to Software Testing
 		Why Software Testing important
 		Validatation and Verification
@@ -18,12 +18,12 @@
 
 
 
-		Software Engg. phases:
+		## Software Engg. phases:
 			
 			Analysis, Design ,Development, Testing, Deployment, maintainance
 
 
-		Analysis:
+		* Analysis:
 		   Requirement---------Customers, their business people, actual end user, stake holder
 		   Architecting Solution--Architect, Domain Experts , QA Team (Quality Assurance team)
 		   Development Team------programmers, Developers, UI Designers
