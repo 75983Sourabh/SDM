@@ -1,5 +1,5 @@
 # System is operational
-	Zero Defect Product----
+	Zero Defect Product
 
 	80%------20% Rule
 
@@ -44,7 +44,7 @@
 				Test Strategy
 				Test plan
 				Test Cases
-				QA Process ..........
+				QA Process 
 
 
 
